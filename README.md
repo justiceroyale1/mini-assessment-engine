@@ -369,15 +369,3 @@ pip install coverage
 coverage run --source='api' manage.py test api
 coverage report
 ```
-
-## License
-
-This project is created as part of a backend assessment task for Acad AI.
-
-## Contact
-
-For questions or feedback, please contact the project maintainer.
-
----
-
-**Built with Django** | **Designed for Excellence** | **Focused on Security**
